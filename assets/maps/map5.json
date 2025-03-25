@@ -183,7 +183,7 @@
                  "visible":true,
                  "width":8,
                  "x":424,
-                 "y":64
+                 "y":72
                 }, 
                 {
                  "gid":89,
@@ -195,7 +195,7 @@
                  "visible":true,
                  "width":8,
                  "x":432,
-                 "y":64
+                 "y":72
                 }, 
                 {
                  "gid":89,
@@ -340,6 +340,30 @@
                  "width":8,
                  "x":64,
                  "y":104
+                }, 
+                {
+                 "gid":89,
+                 "height":8,
+                 "id":113,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":456,
+                 "y":128
+                }, 
+                {
+                 "gid":89,
+                 "height":8,
+                 "id":114,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":456,
+                 "y":136
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -392,24 +416,6 @@
                  "visible":true,
                  "width":8,
                  "x":280,
-                 "y":144
-                }, 
-                {
-                 "gid":114,
-                 "height":8,
-                 "id":54,
-                 "name":"flying-enemy",
-                 "properties":[
-                        {
-                         "name":"path",
-                         "type":"string",
-                         "value":"[{\"x\":0, \"y\":3}, {\"x\":-2, \"y\":3}, {\"x\":-2, \"y\":0}, {\"x\":0, \"y\":0}]"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":376,
                  "y":144
                 }, 
                 {
@@ -501,18 +507,6 @@
                  "width":8,
                  "x":112,
                  "y":128
-                }, 
-                {
-                 "gid":115,
-                 "height":8,
-                 "id":80,
-                 "name":"ground-enemy",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":160,
-                 "y":160
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -667,6 +661,30 @@
                  "width":8,
                  "x":464,
                  "y":152
+                }, 
+                {
+                 "gid":76,
+                 "height":8,
+                 "id":115,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":152,
+                 "y":160
+                }, 
+                {
+                 "gid":76,
+                 "height":8,
+                 "id":116,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":8,
+                 "x":160,
+                 "y":160
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -675,7 +693,7 @@
          "y":0
         }],
  "nextlayerid":8,
- "nextobjectid":113,
+ "nextobjectid":117,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.11.2",
