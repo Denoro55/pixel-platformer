@@ -104,18 +104,6 @@
                 {
                  "gid":89,
                  "height":8,
-                 "id":20,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":240,
-                 "y":120
-                }, 
-                {
-                 "gid":89,
-                 "height":8,
                  "id":22,
                  "name":"",
                  "rotation":0,
@@ -182,7 +170,7 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":288,
+                 "x":280,
                  "y":120
                 }, 
                 {
@@ -218,7 +206,7 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":288,
+                 "x":280,
                  "y":128
                 }, 
                 {
@@ -242,19 +230,7 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":256,
-                 "y":128
-                }, 
-                {
-                 "gid":89,
-                 "height":8,
-                 "id":41,
-                 "name":"",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":8,
-                 "x":240,
+                 "x":248,
                  "y":128
                 }, 
                 {
@@ -266,7 +242,7 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":256,
+                 "x":248,
                  "y":120
                 }, 
                 {
@@ -278,7 +254,7 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":272,
+                 "x":264,
                  "y":128
                 }, 
                 {
@@ -290,7 +266,7 @@
                  "type":"",
                  "visible":true,
                  "width":8,
-                 "x":272,
+                 "x":264,
                  "y":120
                 }],
          "opacity":1,
